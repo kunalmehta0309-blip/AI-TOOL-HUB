@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Tool Details</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>🚀 AI ATLAS 🚀</h1>
+  <button onclick="goBack()">← Back to Hub</button>
+</header>
+
+<div id="tool-details" class="tool-page">
+  <!-- Details will be loaded here -->
+</div>
+
+<script>
+let allTools = [];
+
+async function loadTools() {
+  try {
+    const response = await fetch('tools.json');
+    allTools = await response.json();
+    allTools = allTools.map(tool => ({ 
+      ...tool, 
+      logo: `https://logo.clearbit.com/${new URL(tool.link).hostname}`
+    }));
+    loadToolDetails();
+  } catch (error) {
+    console.error('Error loading tools:', error);
+  }
+}
+
+function loadToolDetails() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const toolName = decodeURIComponent(urlParams.get('id'));
+  const tool = allTools.find(t => t.name === toolName);
+
+  if (tool) {
+    const detailsDiv = document.getElementById('tool-details');
+    detailsDiv.innerHTML = `
+      <div class="tool-header">
+        <img src="${tool.logo}" alt="${tool.name} logo" class="tool-logo-large">
+        <h2>${tool.name}</h2>
+        <span class="pricing-tag ${tool.pricing}">${tool.pricing.charAt(0).toUpperCase() + tool.pricing.slice(1)}</span>
+      </div>
+      <p><strong>Category:</strong> ${tool.category}</p>
+      <p><strong>Description:</strong> ${tool.description}</p>
+      <p><strong>Best for:</strong> ${tool.audience.join(", ")}</p>
+      <p><strong>Rating:</strong> ⭐ ${tool.rating}</p>
+      <div class="links">
+        <a href="${tool.link}" target="_blank" class="visit-btn">Visit Tool</a>
+        ${tool.link.includes('play.google.com') ? `<a href="${tool.link}" target="_blank" class="playstore-btn">Open in Play Store</a>` : ''}
+      </div>
+    `;
+  } else {
+    document.getElementById('tool-details').innerHTML = '<p>Tool not found.</p>';
+  }
+}
+
+function goBack() {
+  window.location.href = 'index.html';
+}
+
+loadTools();
+</script>
+
+</body>
+</html>

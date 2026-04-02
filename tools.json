@@ -1,0 +1,3889 @@
+[
+  {
+    "name": "Thetawave AI",
+    "description": "Converts audio, text, files, and YouTube videos into formatted notes / Generates quizzes, flashcards, and mindmaps",
+    "category": "writing",
+    "pricing": "free",
+    "audience": [
+      "students",
+      "educators"
+    ],
+    "rating": 4.5,
+    "link": "https://thetawave.ai"
+  },
+  {
+    "name": "BlueMail",
+    "description": "Free / Unified Inbox / GemAI Generative Email",
+    "category": "writing",
+    "pricing": "free",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://bluemail.me"
+  },
+  {
+    "name": "MeetGeek",
+    "description": "Free 3 hours of transcription / mo / records & transcribes meetings / AI summaries",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://meetgeek.ai"
+  },
+  {
+    "name": "Shortwave",
+    "description": "14 day free trial / AI email assistant / Organize & write emails with AI",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://www.shortwave.com"
+  },
+  {
+    "name": "QuickfireAI",
+    "description": "One-week free trial / Generate responses to messages / Generate messages from a prompt",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://chromewebstore.google.com/detail/quickfireai-communication/pcolajnhaelkbnalghcloadkcmenmdoo"
+  },
+  {
+    "name": "ExitGenius",
+    "description": "Instantly generates convincing reasons to exit any situation / Tailored excuses based on the context of your scenario",
+    "category": "writing",
+    "pricing": "free",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://apps.apple.com/us/app/exitgenius/id6478943655"
+  },
+  {
+    "name": "aimsg",
+    "description": "15 messages free / Generate personalized messages based on LinkedIn profiles / Boost response rate",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://aimsg.io"
+  },
+  {
+    "name": "Geniechat",
+    "description": "7-Day Free Trial / Sales Relationship Management / AI-powered Message Generation / Content Keyboard & Team Sharing",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "sales"
+    ],
+    "rating": 4.5,
+    "link": "https://geniechat.com"
+  },
+  {
+    "name": "Strama",
+    "description": "50 credits/month / AI-powered sales automation / Automated multi-touch sequences",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "sales"
+    ],
+    "rating": 4.5,
+    "link": "https://strama.ai"
+  },
+  {
+    "name": "AutoPitch",
+    "description": "14-day free trial / Writes technical outbound messages / Crafts personalized pitches / Automates research reports",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "sales"
+    ],
+    "rating": 4.5,
+    "link": "https://autopitch.ai"
+  },
+  {
+    "name": "AI For Texting",
+    "description": "Free / Write, Reply, Analyze messages / No Login required",
+    "category": "writing",
+    "pricing": "free",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://aifortexting.com"
+  },
+  {
+    "name": "LEO",
+    "description": "AI-Generated Buyer Personas / Prospect Suggestions / AI-Crafted Messages",
+    "category": "writing",
+    "pricing": "paid",
+    "audience": [
+      "sales"
+    ],
+    "rating": 4.5,
+    "link": "https://chromewebstore.google.com/detail/leo-bizdev/hcchnkjaddnfjffmoclhgjokcifkmgfe"
+  },
+  {
+    "name": "MatchHack",
+    "description": "analyzes your dating app matches / generates personalized, engaging messages",
+    "category": "writing",
+    "pricing": "paid",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://www.matchhack.ai"
+  },
+  {
+    "name": "CoWriter AI",
+    "description": "20 Completion Suggestions per Day / Smart Autocompletion / Versatile Citation Support / AI Detection Proof",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "writers"
+    ],
+    "rating": 4.5,
+    "link": "https://cowriter.ai"
+  },
+  {
+    "name": "Resea AI",
+    "description": "200 free Credits / Deep research reports with accurate citations / Unlimited Writing",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "researchers"
+    ],
+    "rating": 4.5,
+    "link": "https://resea.ai"
+  },
+  {
+    "name": "SpeedAI",
+    "description": "500 points free trial / Lower AIGC Rate / Reduce Repetition Rate",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "writers"
+    ],
+    "rating": 4.5,
+    "link": "https://kuaipaper.com"
+  },
+  {
+    "name": "Taja AI",
+    "description": "Free 7 Day Trial / Turn one video into 27 social posts automatically / AI-Powered YouTube SEO expert / Content Idea Generation",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "content creators"
+    ],
+    "rating": 4.5,
+    "link": "https://taja.ai"
+  },
+  {
+    "name": "Video to Prompt",
+    "description": "Convert videos into detailed prompts / Instant AI Analysis / Multi-language Support",
+    "category": "writing",
+    "pricing": "free",
+    "audience": [
+      "content creators"
+    ],
+    "rating": 4.5,
+    "link": "https://videotoprompt.net"
+  },
+  {
+    "name": "Dadan AI Assist",
+    "description": "Free: 25 videos & 5 mins each / AI-generated transcriptions / Auto-generated video metadata",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "content creators"
+    ],
+    "rating": 4.5,
+    "link": "https://www.dadan.io/features/ai-assist"
+  },
+  {
+    "name": "AITDK",
+    "description": "AI SEO Title Generator / AI SEO Description Generator / AI SEO Keywords Generator",
+    "category": "writing",
+    "pricing": "paid",
+    "audience": [
+      "marketers"
+    ],
+    "rating": 4.5,
+    "link": "https://aitdk.com"
+  },
+  {
+    "name": "AI YouTube Title & Description Generator",
+    "description": "Free / Automatically generates YouTube titles / Automatically generates YouTube descriptions",
+    "category": "writing",
+    "pricing": "free",
+    "audience": [
+      "content creators"
+    ],
+    "rating": 4.5,
+    "link": "https://chromewebstore.google.com/detail/toobsquid-ai-youtube-titl/gmaafomgeemhdedjkfbcjdgfeedffemi"
+  },
+  {
+    "name": "PropGenius.ai",
+    "description": "7-Day Free Trial / AI-powered content generation / AI-driven real estate predictions",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "real estate"
+    ],
+    "rating": 4.5,
+    "link": "https://propgenius.ai"
+  },
+  {
+    "name": "Snzzle",
+    "description": "One Live Project Free / Showcase Live Projects with One Link / AI-powered Project Descriptions / Boost Visibility to Recruiters",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://www.snzzle.com"
+  },
+  {
+    "name": "Podify",
+    "description": "Create viral LinkedIn posts / Turn videos, PDFs, and questions into content / Distribute content to audience's inbox",
+    "category": "writing",
+    "pricing": "paid",
+    "audience": [
+      "content creators"
+    ],
+    "rating": 4.5,
+    "link": "https://podify.io"
+  },
+  {
+    "name": "NoFOMO.AI",
+    "description": "Daily digest of upto 5 videos/podcasts free / Summarize YouTube videos and podcasts / Concise updates and transcripts delivered to inbox",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://nofomo.ai"
+  },
+  {
+    "name": "Resume Worded",
+    "description": "AI-powered tailored feedback on resume & LinkedIn / Land 5x more interviews & job offers",
+    "category": "writing",
+    "pricing": "paid",
+    "audience": [
+      "job seekers"
+    ],
+    "rating": 4.5,
+    "link": "https://resumeworded.com"
+  },
+  {
+    "name": "AI Name Generator",
+    "description": "Creates perfect names using advanced AI / Generates unique, meaningful names",
+    "category": "writing",
+    "pricing": "paid",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://aithename.com"
+  },
+  {
+    "name": "Personalized License Plate Generator",
+    "description": "Unlimited free generation / AI Powered Personalized License Plate Generator / Buy and print custom AI plates",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://getmylp.com"
+  },
+  {
+    "name": "RandomX.ai",
+    "description": "AI-powered name generation / Authentic Chinese names / Japanese names",
+    "category": "writing",
+    "pricing": "paid",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://randomx.ai"
+  },
+  {
+    "name": "AI Renamer",
+    "description": "10 free credits / Automatically rename files based on content / Organize images and documents with meaningful names",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://airenamer.app"
+  },
+  {
+    "name": "Song Name Generator",
+    "description": "Free / AI song name generator / Generate song name from prompt or lyric / 20 results to select",
+    "category": "writing",
+    "pricing": "free",
+    "audience": [
+      "musicians"
+    ],
+    "rating": 4.5,
+    "link": "https://www.songnamegenerator.org"
+  },
+  {
+    "name": "Bundle of Joy",
+    "description": "50 name recommendations free / AI-powered name shortlisting / Partner match notifications",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "parents"
+    ],
+    "rating": 4.5,
+    "link": "https://bundleofjoy.app"
+  },
+  {
+    "name": "AI Pet Photos Generator",
+    "description": "Free Cat Name Generator / AI-generated custom Cat portraits / 4K Resolution",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "pet owners"
+    ],
+    "rating": 4.5,
+    "link": "https://aicatz.com"
+  },
+  {
+    "name": "branch-name.com",
+    "description": "Generate up to 2 branch names daily / AI-Powered Git Branch Name Generation",
+    "category": "writing",
+    "pricing": "free",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://branch-name.com"
+  },
+  {
+    "name": "WriteVoice",
+    "description": "2,000 written words free / 4x Faster / 97%+ recognition accuracy / Works in any app",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "writers"
+    ],
+    "rating": 4.5,
+    "link": "https://www.writevoice.io"
+  },
+  {
+    "name": "Scrip AI",
+    "description": "FREE / AI content writing / Viral short video script generation / No Login required",
+    "category": "writing",
+    "pricing": "free",
+    "audience": [
+      "content creators"
+    ],
+    "rating": 4.5,
+    "link": "https://scripai.com"
+  },
+  {
+    "name": "Hatch Canvas",
+    "description": "Start for Free / AI-powered collaborative canvas / Infinite canvas for visual organization / Create interactive tools, apps & websites",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://hatchcanvas.com"
+  },
+  {
+    "name": "Haire",
+    "description": "AI-Driven Smart Hiring / AI Interview Software / Reduced Hiring Time & Cost",
+    "category": "writing",
+    "pricing": "paid",
+    "audience": [
+      "hr"
+    ],
+    "rating": 4.5,
+    "link": "https://haire.ai"
+  },
+  {
+    "name": "Resumegenerator.io",
+    "description": "Unlimited AI Resumes / Craft tailored resumes / Instant resume feedback",
+    "category": "writing",
+    "pricing": "paid",
+    "audience": [
+      "job seekers"
+    ],
+    "rating": 4.5,
+    "link": "https://resumegenerator.io"
+  },
+  {
+    "name": "Ink – AI Writing App With Chat",
+    "description": "AI-powered text generation / Chat feature / 50+ modes & categories",
+    "category": "writing",
+    "pricing": "paid",
+    "audience": [
+      "writers"
+    ],
+    "rating": 4.5,
+    "link": "https://apps.apple.com/us/app/ink-ai-writing-app-with-gpt/id1663795399"
+  },
+  {
+    "name": "Shakespeare Toolbar",
+    "description": "Free 2000 words / Summarize / Rephrase / Simplify",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "writers"
+    ],
+    "rating": 4.5,
+    "link": "https://www.shakespearetoolbar.com"
+  },
+  {
+    "name": "AI Sentence Generator",
+    "description": "Generate unique sentences / Multi-language support / Tone customization",
+    "category": "writing",
+    "pricing": "paid",
+    "audience": [
+      "writers"
+    ],
+    "rating": 4.5,
+    "link": "https://www.aisentencegenerator.com"
+  },
+  {
+    "name": "Agent Helper by Swifteq",
+    "description": "Free 14-day trial / AI-powered sentence autocomplete / Boost agents productivity / Reduce repetitive typing",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://chromewebstore.google.com/detail/agent-helper-for-zendesk/kfldmahbedbpalbpggpamkgiponfijkf"
+  },
+  {
+    "name": "Type.ai",
+    "description": "AI-powered document editor / AI writing assistant",
+    "category": "writing",
+    "pricing": "paid",
+    "audience": [
+      "writers"
+    ],
+    "rating": 4.5,
+    "link": "https://type.ai"
+  },
+  {
+    "name": "Prepostseo",
+    "description": "Plagiarism Checker / Paraphrasing Tool / AI Writing Assistants",
+    "category": "writing",
+    "pricing": "paid",
+    "audience": [
+      "writers"
+    ],
+    "rating": 4.5,
+    "link": "https://www.prepostseo.com"
+  },
+  {
+    "name": "Sigma AI Browser",
+    "description": "Built-in AI Chat / Enhanced Privacy / AI-powered Content Generation",
+    "category": "writing",
+    "pricing": "paid",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://sigmabrowser.com"
+  },
+  {
+    "name": "Tenorshare AI",
+    "description": "AI Humanizer / AI PDF Summarizer / AI Writer",
+    "category": "writing",
+    "pricing": "paid",
+    "audience": [
+      "writers"
+    ],
+    "rating": 4.5,
+    "link": "https://ai.tenorshare.com"
+  },
+  {
+    "name": "Seapik",
+    "description": "2000 words/month free / AI writer / AI text generator",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "writers"
+    ],
+    "rating": 4.5,
+    "link": "https://seapik.com"
+  },
+  {
+    "name": "Koke AI",
+    "description": "Free 10 papers export (partial) & 1000 AI words/day / AI Citation Generator / AI Outline Generator",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "researchers"
+    ],
+    "rating": 4.5,
+    "link": "https://www.koke.ai"
+  },
+  {
+    "name": "uTwain",
+    "description": "Free / Generate texts using AI / Paraphrase, shorten, lengthen, summarize / Real-time suggestions & citation management",
+    "category": "writing",
+    "pricing": "free",
+    "audience": [
+      "writers"
+    ],
+    "rating": 4.5,
+    "link": "https://utwain.com"
+  },
+  {
+    "name": "TurboGenerate",
+    "description": "Generate text, audio and images / 110+ Templates",
+    "category": "writing",
+    "pricing": "paid",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://turbogenerate.com"
+  },
+  {
+    "name": "Producti Ai",
+    "description": "1 Day free trial / AI Text Generation / AI Image Creator / AI Code Generator",
+    "category": "writing",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://productiai.co"
+  },
+  {
+    "name": "Funy AI",
+    "description": "AI Video Generator / Face Swap / AI Art Generator / No Sign Up",
+    "category": "design",
+    "pricing": "free",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://funy.ai"
+  },
+  {
+    "name": "PixNova AI",
+    "description": "Free / AI Face Swap for Photos, GIFs and Videos / Multiple Face Swap / Batch Face Swap / No Sign-Up",
+    "category": "design",
+    "pricing": "free",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://pixnova.ai/ai-face-swap"
+  },
+  {
+    "name": "Deepfake Maker Nano Banana AI",
+    "description": "Text to Image generation / Image to Image editing",
+    "category": "design",
+    "pricing": "paid",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://deepfakemaker.io/nano-banana-ai"
+  },
+  {
+    "name": "VoooAI",
+    "description": "Unlimited generation / Free AI Image & Video Generator / Intelligent Model Switching / No Login Required",
+    "category": "design",
+    "pricing": "free",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://www.voooai.com"
+  },
+  {
+    "name": "Nano BiBi",
+    "description": "Start for Free / AI Batch Image Editor / Multimodal AI Generation",
+    "category": "design",
+    "pricing": "freemium",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://nanobibi.com"
+  },
+  {
+    "name": "AI KISS VIDEO GENERATOR",
+    "description": "Free daily credits / Cinema-quality romantic animations / Realistic 3D facial mapping",
+    "category": "design",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://aikiss.art"
+  },
+  {
+    "name": "Nano Banana | Nanana AI",
+    "description": "2 free generations / AI Image Generation / AI Image Editing / No Registration Required",
+    "category": "design",
+    "pricing": "freemium",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://nanana.app"
+  },
+  {
+    "name": "SurfSense",
+    "description": "30 day PRO trial / Multi-source AI sync / AI Podcast generator",
+    "category": "design",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://www.surfsense.com"
+  },
+  {
+    "name": "InboxPro",
+    "description": "Free 250 Monthly Emails / AI Email Assistant / Calendar Scheduling / Automated Follow-up Sequences",
+    "category": "design",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://inboxpro.io"
+  },
+  {
+    "name": "Nano Banana Games",
+    "description": "Free AI image playground / Pose generation / Face swaps / Background changes / No Sign Up Required",
+    "category": "design",
+    "pricing": "free",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://nanobanana.games"
+  },
+  {
+    "name": "Pixmaker",
+    "description": "50 credits for free / AI-powered product images / Realistic AI model photos",
+    "category": "design",
+    "pricing": "freemium",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://pixmaker.ai/home"
+  },
+  {
+    "name": "Ohmywall",
+    "description": "Animated 3D & 4D Wallpapers / AI Generator / Extensive Collection",
+    "category": "design",
+    "pricing": "paid",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://ohmywallpaper.com"
+  },
+  {
+    "name": "ImgAIx.com",
+    "description": "Unlimited Free / Background Removal / Object Inpainting / Background",
+    "category": "design",
+    "pricing": "free",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://imgaix.com"
+  },
+  {
+    "name": "OpinioAI",
+    "description": "20 credits / AI Powered Research / Synthetic Market Research",
+    "category": "design",
+    "pricing": "paid",
+    "audience": [
+      "researchers"
+    ],
+    "rating": 4.5,
+    "link": "https://www.opinio.ai"
+  },
+  {
+    "name": "MixPix AI",
+    "description": "Free / Generate photos with AI models / AI Celebrity & Supermodel Photos",
+    "category": "design",
+    "pricing": "free",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://mixpix.ai"
+  },
+  {
+    "name": "Ideogram Character",
+    "description": "Free generation / Consistent AI personas / Single image consistency",
+    "category": "design",
+    "pricing": "free",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://ideogramcharacter.ai"
+  },
+  {
+    "name": "iVisual",
+    "description": "AI Imagery Meets Real Models / Hyper-Realistic Images / Lightning-Fast Creation",
+    "category": "design",
+    "pricing": "paid",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://ivisual.ai"
+  },
+  {
+    "name": "Kazimir.ai",
+    "description": "AI-generated images of celebrities / Kazimir.ai search engine",
+    "category": "design",
+    "pricing": "paid",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://kazimir.ai"
+  },
+  {
+    "name": "Tilda",
+    "description": "Create a website for free / AI-Powered Website Creation / 550+ pre-designed blocks",
+    "category": "design",
+    "pricing": "free",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://mememes.app"
+  },
+  {
+    "name": "SIGNATURE AI",
+    "description": "Photorealistic AI visuals / Automated content generation / Cost-effective content creation",
+    "category": "design",
+    "pricing": "paid",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://visio.studio"
+  },
+  {
+    "name": "Photo AI",
+    "description": "48 free photos per AI model / Generate photorealistic images and videos with AI / Create your own AI model or AI influencer",
+    "category": "design",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://avatarai.me"
+  },
+  {
+    "name": "VEGA AI",
+    "description": "Automate Admin Tasks & Grading / Personalize Learning with AI Avatars",
+    "category": "design",
+    "pricing": "paid",
+    "audience": [
+      "educators"
+    ],
+    "rating": 4.5,
+    "link": "https://www.myvega.ai"
+  },
+  {
+    "name": "Lipsync AI",
+    "description": "Complimentary credits / Transform images into professional talking heads / Perfectly matches mouth movements to speech",
+    "category": "design",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://lipsyncai.net"
+  },
+  {
+    "name": "Similarvideo.ai",
+    "description": "Create viral short videos 10x faster / Clone anyone's voice and image",
+    "category": "design",
+    "pricing": "paid",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://similarvideo.ai"
+  },
+  {
+    "name": "AI Studios",
+    "description": "Free 3 Video Exports per Month / AI avatar video generation / AI Voices in 80+ Languages",
+    "category": "design",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://www.deepbrain.io"
+  },
+  {
+    "name": "Nano Banana 2",
+    "description": "Start for free / 4–6s Fast Generation / 14-Image Subject Consistency / Search Grounding",
+    "category": "design",
+    "pricing": "freemium",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://www.nanobananapro.org/image/nano-banana-2"
+  },
+  {
+    "name": "Imageenhan",
+    "description": "1 use Unlimited Face Swap / AI Image Enhancer / Upscaler",
+    "category": "design",
+    "pricing": "paid",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://www.imageenhan.com"
+  },
+  {
+    "name": "SupPixel AI",
+    "description": "10 credits per month free / Image Enhancement / Upscaling",
+    "category": "design",
+    "pricing": "freemium",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://suppixel.ai"
+  },
+  {
+    "name": "Hotpot.ai",
+    "description": "Create professional graphics and pictures / AI tools spark creativity and automate drudgery / No Login Required",
+    "category": "design",
+    "pricing": "free",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://hotpot.ai"
+  },
+  {
+    "name": "Image To Image AI",
+    "description": "Edit, reshape, and restyle images using text prompts / Preserves original structure",
+    "category": "design",
+    "pricing": "paid",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://imgtoimg.ai"
+  },
+  {
+    "name": "Bigjpg",
+    "description": "20 images/month / AI Super-Resolution lossless image enlarging / Noise Reduction",
+    "category": "design",
+    "pricing": "freemium",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://bigjpg.com"
+  },
+  {
+    "name": "DeepAI",
+    "description": "AI Image Generator / AI Chat",
+    "category": "design",
+    "pricing": "paid",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://deepai.org"
+  },
+  {
+    "name": "AnyEnhancer",
+    "description": "Enhance video quality with AI / Upscale video to 4K",
+    "category": "design",
+    "pricing": "paid",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://www.imobie.com/anyenhancer"
+  },
+  {
+    "name": "HitPaw VikPea",
+    "description": "Free preview / Upscale to 8K, Unblur & Colorize / Repair damaged videos",
+    "category": "design",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://www.hitpaw.com/hitpaw-video-enhancer.html"
+  },
+  {
+    "name": "imini AI",
+    "description": "20 daily chat rounds / Super AI Agent / AI Slides / Deep Research",
+    "category": "design",
+    "pricing": "paid",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://imini.com"
+  },
+  {
+    "name": "iPic.Ai",
+    "description": "10 Images Per Day / AI Powered Image Generator / Unique and Custom Images",
+    "category": "design",
+    "pricing": "paid",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://www.ipic.ai"
+  },
+  {
+    "name": "Fusion Brain",
+    "description": "AI Image Generation / AI Video Generation",
+    "category": "design",
+    "pricing": "paid",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://fusionbrain.ai"
+  },
+  {
+    "name": "ImageFx",
+    "description": "Free basic Turbo mode / Intelligent Text-to-Image / High-Resolution Output",
+    "category": "design",
+    "pricing": "freemium",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://imgfx.dev"
+  },
+  {
+    "name": "Cleanup.pictures & Clipdrop",
+    "description": "Unlimited images (720p resolution) / Remove unwanted objects / Retouch images / No Login Required",
+    "category": "design",
+    "pricing": "free",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://cleanup.pictures"
+  },
+  {
+    "name": "HiFun",
+    "description": "5 Credits / AI-Powered Image Editing / Auto Mask",
+    "category": "design",
+    "pricing": "paid",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://hifun.ai"
+  },
+  {
+    "name": "DeepAny.AI",
+    "description": "Face Swap / Video Generator / Art Generator",
+    "category": "design",
+    "pricing": "paid",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://deepany.ai"
+  },
+  {
+    "name": "Pixelfox AI",
+    "description": "AI Photo Editor / Background Removal / Image Enhancement / No Sign-Up",
+    "category": "design",
+    "pricing": "free",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://pixelfox.ai"
+  },
+  {
+    "name": "SuperCraft",
+    "description": "30 iterations / Design physical products with natural language / Highly realistic renders",
+    "category": "design",
+    "pricing": "paid",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://supercraft.ai"
+  },
+  {
+    "name": "Replace Anything",
+    "description": "Ultra-high quality content replacement / AI image editing",
+    "category": "design",
+    "pricing": "paid",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://www.replace-anything.fun"
+  },
+  {
+    "name": "PhotoFairy",
+    "description": "100 complimentary AI credits / Text-to-image generation / Object removal and inpainting",
+    "category": "design",
+    "pricing": "freemium",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://photofairy.ai"
+  },
+  {
+    "name": "Stable Diffusion Online",
+    "description": "10 image generations per day / AI Art generation from text / High quality images / No Login required",
+    "category": "design",
+    "pricing": "freemium",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://stablediffusionweb.com"
+  },
+  {
+    "name": "Dezgo",
+    "description": "Free tier / Generate high-quality images from text / Dozens of general & anime models",
+    "category": "design",
+    "pricing": "free",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://dezgo.com"
+  },
+  {
+    "name": "Clipdrop",
+    "description": "20/24h for most tools / AI-powered visual creation / Background removal / Image upscaling",
+    "category": "design",
+    "pricing": "freemium",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://clipdrop.co"
+  },
+  {
+    "name": "Pipiads AI Image Text Remover",
+    "description": "Free 3 requests per month / Best tiktok ads spy tool / Tiktok ads examples / Tiktok ads library",
+    "category": "design",
+    "pricing": "freemium",
+    "audience": [
+      "marketers"
+    ],
+    "rating": 4.5,
+    "link": "https://www.pipiads.com/ai-image-text-removal"
+  },
+  {
+    "name": "VIVAGO AI",
+    "description": "Free Trial / AI Video & Image Creation / 4K Video & Image Enhancement / Automatic Prompt Optimization",
+    "category": "design",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://vivago.ai"
+  },
+  {
+    "name": "starryai",
+    "description": "5 artworks free daily / AI art generator / Full Ownership / Customizability",
+    "category": "design",
+    "pricing": "freemium",
+    "audience": [
+      "designers"
+    ],
+    "rating": 4.5,
+    "link": "https://starryai.com"
+  },
+  {
+    "name": "LTX Studio",
+    "description": "800 Computing Seconds (one time) / AI-powered visual storytelling / Character casting & animation / Advanced camera controls",
+    "category": "video",
+    "pricing": "paid",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://ltx.studio"
+  },
+  {
+    "name": "D-ID",
+    "description": "14-day trial / Create AI-powered talking avatars / Translate videos into multiple languages",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://www.d-id.com"
+  },
+  {
+    "name": "ジェンスパーク",
+    "description": "Start for free / AI Slide Automation / All-in-one AI Workspace / Meeting Bot",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://www.genspark.ai/ja"
+  },
+  {
+    "name": "AirBrush",
+    "description": "AI Photo Editor / Photo Retouch / AI Video Enhancer / No signup needed",
+    "category": "video",
+    "pricing": "free",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://airbrush.com"
+  },
+  {
+    "name": "Wondershare Filmora",
+    "description": "100 AI credits / Smart Short Clips / AI Video Enhancer / AI Text to Video",
+    "category": "video",
+    "pricing": "paid",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://filmora.wondershare.com"
+  },
+  {
+    "name": "Vmake AI",
+    "description": "All-in-One Talking Head Video Solution / AI Video Enhancement & Transformation Tools / No signup needed",
+    "category": "video",
+    "pricing": "free",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://vmake.ai"
+  },
+  {
+    "name": "Clipfly",
+    "description": "All-in-one AI video editor / Easy video creation and editing / AI-powered video enhancement",
+    "category": "video",
+    "pricing": "paid",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://www.clipfly.ai"
+  },
+  {
+    "name": "Concert Creator",
+    "description": "Create beautiful piano animations / Generate music lessons from audio",
+    "category": "video",
+    "pricing": "paid",
+    "audience": [
+      "musicians"
+    ],
+    "rating": 4.5,
+    "link": "https://concertcreator.ai"
+  },
+  {
+    "name": "Pipio",
+    "description": "3 video credits / AI-powered video production / 100+ customizable AI avatars",
+    "category": "video",
+    "pricing": "paid",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://mypipio.com"
+  },
+  {
+    "name": "SpiritMe",
+    "description": "AI text-to-video platform / Become a digital avatar in 5 minutes / Add emotions with Dynamic Facial Expressions Engine",
+    "category": "video",
+    "pricing": "paid",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://spiritme.tech"
+  },
+  {
+    "name": "Percify",
+    "description": "3 videos per month / Realistic AI avatars from images / Perfect lip-sync talking videos",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://percify.io"
+  },
+  {
+    "name": "X-Me AI",
+    "description": "Free 7-day trial, 3 videos / Personalized AI avatars and videos in 10 seconds / Realistic avatars",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://x-me.world"
+  },
+  {
+    "name": "Rephrase.ai",
+    "description": "Create a free video / Convert text into engaging AI videos / Create professional videos with digital avatars",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://www.rephrase.ai"
+  },
+  {
+    "name": "Just Think AI",
+    "description": "Free 10,000 Words in Chat & 5000 Text to Speech Credits / Generative AI Chat / Text to Speech / AI Art & Video",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://justthink.ai"
+  },
+  {
+    "name": "Repurpose LOL",
+    "description": "Transcripts / Viral clips / AI Copy writer",
+    "category": "video",
+    "pricing": "paid",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://repurpose.lol"
+  },
+  {
+    "name": "ClipGen",
+    "description": "5 Clips, 60 Upload Minutes free / Turning Podcasts into Short Clips / Subtitles, Custom Branding, 30+ Languages / No credit card required",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://www.clipgen.io"
+  },
+  {
+    "name": "Trimmr",
+    "description": "Import 60 mins per month / AI-powered video shortening / Generate viral shorts",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://www.trimmr.ai"
+  },
+  {
+    "name": "WayinVideo",
+    "description": "AI Clipping / Video Summary / Edit video by text",
+    "category": "video",
+    "pricing": "paid",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://wayin.ai/wayinvideo"
+  },
+  {
+    "name": "TwelveLabs",
+    "description": "Free 10 hours indexing / Search video / Generate text from video",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://www.twelvelabs.io"
+  },
+  {
+    "name": "muse.ai",
+    "description": "14-day free trial / AI-powered video search / auto-generated chapters & transcripts",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://muse.ai"
+  },
+  {
+    "name": "Imaginario.ai",
+    "description": "30 minutes of free AI transcription and auto-captions every month / Multimodal AI curation / AI video search / Clip creation in seconds",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://www.imaginario.ai"
+  },
+  {
+    "name": "CoreViz",
+    "description": "100 Free Credits / Natural Language Search / AI Photo Editing",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://coreviz.io"
+  },
+  {
+    "name": "Jumper",
+    "description": "100 free searches / AI-powered video search / Instant speech search",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://getjumper.io"
+  },
+  {
+    "name": "QuickSight",
+    "description": "Free Trial / AI-Powered Video Search / Natural Language Search / Collaborative Video Review",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://quicksight.ai"
+  },
+  {
+    "name": "MovieLyzer",
+    "description": "15 minutes of video upload / 1,000,000 tokens free / AI-powered intelligent video search / Precise results with exact timestamps",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://movielyzer.com"
+  },
+  {
+    "name": "Streamie AI",
+    "description": "3-Day Free Trial / AI-powered Movie & TV Show Recommendations / Unlimited Recommendations & 'Suggest More Like This'",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://streamie.ai"
+  },
+  {
+    "name": "Cloudglue",
+    "description": "200 Credits / 25 Minutes Indexed / Transform video & audio into structured, LLM-ready data / Unparalleled Speed",
+    "category": "video",
+    "pricing": "paid",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://cloudglue.dev"
+  },
+  {
+    "name": "Stream Guide - AI Search",
+    "description": "AI-powered search by plot or actors / Discover where to watch movies & TV shows / Check availability in multiple countries",
+    "category": "video",
+    "pricing": "paid",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://apps.apple.com/es/app/stream-guide-ai-search/id6520387127"
+  },
+  {
+    "name": "Zebracat",
+    "description": "5 credits/week / Text to Video / Human-like AI voiceovers",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://www.zebracat.ai"
+  },
+  {
+    "name": "Storyboarder.ai",
+    "description": "3 free video generations / AI-powered storyboarding / Automatic animatic generation / Script to storyboard",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://storyboarder.ai"
+  },
+  {
+    "name": "Golpo",
+    "description": "2 credits / AI video generator / Document to video / Whiteboard animation",
+    "category": "video",
+    "pricing": "paid",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://video.golpoai.com"
+  },
+  {
+    "name": "Focal",
+    "description": "200 initial credits / AI-powered video creation / Create characters & tell stories / Tell long stories with AI",
+    "category": "video",
+    "pricing": "paid",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://focalml.com"
+  },
+  {
+    "name": "Elser AI",
+    "description": "Free creation / AI Anime and Movie Generator / Characters, voices, and music",
+    "category": "video",
+    "pricing": "free",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://www.elser.ai"
+  },
+  {
+    "name": "ImageMover",
+    "description": "Free version available / Image to Video AI Generator / AI-powered online generator",
+    "category": "video",
+    "pricing": "free",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://imagemover.ai"
+  },
+  {
+    "name": "Lilys AI",
+    "description": "Summarize Videos, Audio, PDF & Websites / Perfect summaries for English papers and foreign language videos",
+    "category": "video",
+    "pricing": "paid",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://lilys.ai"
+  },
+  {
+    "name": "Noiz",
+    "description": "7-day free trial / AI-powered video summaries in seconds / Get key points & insights / Summarize videos up to 12 hours in 41 languages",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://noiz.io"
+  },
+  {
+    "name": "Contrast",
+    "description": "Up to 30 registrants per month / Engaging webinars / AI content repurposing / No credit card",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://getcontrast.io"
+  },
+  {
+    "name": "Tubly",
+    "description": "AI-Powered Summaries / Audio Summaries / Multilingual Translation",
+    "category": "video",
+    "pricing": "paid",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://tubly.app"
+  },
+  {
+    "name": "VideoDigest",
+    "description": "Free 120 minutes/month / AI-Powered Summaries / Automated Translation",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://videodigest.app"
+  },
+  {
+    "name": "PlotSnippets",
+    "description": "Quick, spoiler-free movie summaries / AI-powered audience recommendations",
+    "category": "video",
+    "pricing": "paid",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://plotsnippets.com"
+  },
+  {
+    "name": "AI Video Plugin",
+    "description": "Free / AI-Generated Video Summaries / Sentiment Analysis of Comments",
+    "category": "video",
+    "pricing": "free",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://chromewebstore.google.com/detail/linksterai/aaffinobcblifjgjlmlebopielkicdbk"
+  },
+  {
+    "name": "SceneSnap",
+    "description": "Automatic Notes / Smart Summaries / AI Tutor",
+    "category": "video",
+    "pricing": "paid",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://scenesnap.co"
+  },
+  {
+    "name": "ReadPartner",
+    "description": "5 summaries per week / Summarize Websites, Documents, Videos & Text / Create Custom AI News Digests",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://readpartner.com"
+  },
+  {
+    "name": "Mixpeek",
+    "description": "100 MB storage, 5,000 API calls/month, 2 pipelines, 1 collection free / Process, extract features, and search across text, images, video, audio, and PDFs / Turn any file into searchable, structured insights",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://mixpeek.com"
+  },
+  {
+    "name": "GenA",
+    "description": "Completely Free / AI-powered creative suite for real estate marketing / listing descriptions, social media posts, and reels / for property sales, vacation rentals, and long-term leases",
+    "category": "video",
+    "pricing": "free",
+    "audience": [
+      "real estate"
+    ],
+    "rating": 4.5,
+    "link": "https://gena.realpha.com"
+  },
+  {
+    "name": "FragCut",
+    "description": "Start Free / AI Auto-Clip & Edit / Vertical Optimization / AI Subtitles",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://fragcut.io"
+  },
+  {
+    "name": "Reelify AI",
+    "description": "Free trial / Generate viral content at scale / Create gen z meme & short-form content",
+    "category": "video",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://www.reelify.lol"
+  },
+  {
+    "name": "Etereel",
+    "description": "Free / Turn your script to an engaging video in 1 minute / Easily generate short videos with AI",
+    "category": "video",
+    "pricing": "free",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://etereel.pages.dev"
+  },
+  {
+    "name": "Bupple",
+    "description": "Free / AI-Powered Social Media Content Creation / 7-in-1 Content Tool",
+    "category": "video",
+    "pricing": "free",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://bupple.io"
+  },
+  {
+    "name": "Bridge.audio",
+    "description": "AI-powered autotagging / Collaborative audio workspace / Commission-free sync marketplace",
+    "category": "productivity",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://www.bridge.audio"
+  },
+  {
+    "name": "Spike",
+    "description": "10 AI queries free / AI-powered email / Conversational email / Unified inbox",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://www.spikenow.com"
+  },
+  {
+    "name": "Zemith.com",
+    "description": "15 Credits Daily / Multi Model AI Chat / AI Powered Search / AI Enhanced Note Taking",
+    "category": "productivity",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://www.zemith.com"
+  },
+  {
+    "name": "Fabric",
+    "description": "AI-powered self-organizing workspace / AI search and thinking partner",
+    "category": "productivity",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://fabric.so"
+  },
+  {
+    "name": "Jobtensor",
+    "description": "Free account / AI Smart Search / Job DNA",
+    "category": "productivity",
+    "pricing": "free",
+    "audience": [
+      "job seekers"
+    ],
+    "rating": 4.5,
+    "link": "https://jobtensor.com"
+  },
+  {
+    "name": "Createthat.ai",
+    "description": "7-day free trial / AI-powered asset discovery / Unlimited Royalty-Free Assets",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "creators"
+    ],
+    "rating": 4.5,
+    "link": "https://www.createthat.ai"
+  },
+  {
+    "name": "Juicebox (PeopleGPT)",
+    "description": "Limited free searches / AI-powered natural language people search / Contact details & AI email outreach / AI-powered candidate review",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "recruiters"
+    ],
+    "rating": 4.5,
+    "link": "https://juicebox.work"
+  },
+  {
+    "name": "Shaped",
+    "description": "AI search, recommendations, and personalization / Real-time, configurable relevance engine",
+    "category": "productivity",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://www.shaped.ai"
+  },
+  {
+    "name": "Relevance AI",
+    "description": "Build your AI Workforce / Automate processes / Deliver human-quality work",
+    "category": "productivity",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://relevanceai.com"
+  },
+  {
+    "name": "Attio",
+    "description": "14-day free trial / AI-native CRM / Adaptive data model / Powerful automations & reporting",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "sales"
+    ],
+    "rating": 4.5,
+    "link": "https://attio.com"
+  },
+  {
+    "name": "LuxAlgo",
+    "description": "Free tools / AI trading indicators / AI backtesting",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "traders"
+    ],
+    "rating": 4.5,
+    "link": "https://www.luxalgo.com"
+  },
+  {
+    "name": "HARPA AI",
+    "description": "Free up to 10 messages/day & 100 AI command runs / Automate online work",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://harpa.ai"
+  },
+  {
+    "name": "Dorascribe",
+    "description": "Free 20 Transcripts/Month / Convert clinical consultations into EMR text / Real-Time Charting for Doctors",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "doctors"
+    ],
+    "rating": 4.5,
+    "link": "https://www.dorascribe.ai"
+  },
+  {
+    "name": "Astro Seek",
+    "description": "Free birth chart analysis / AI-trained on 9,000+ charts / 18-year professional astrologer insights / No Sign Up required",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://astroseek.org"
+  },
+  {
+    "name": "Chat2CSV",
+    "description": "Free: 15 queries/hr, 1 CSV, 5 AI prompts / Natural Language CSV to Chart / AI-powered Chart Suggestions",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://chat2csv.com"
+  },
+  {
+    "name": "Jobright",
+    "description": "Free trial / AI Job Match / Tailored Resumes / Insider Connections",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "job seekers"
+    ],
+    "rating": 4.5,
+    "link": "https://jobright.ai"
+  },
+  {
+    "name": "Aura",
+    "description": "14-day free trial / Identity Theft Protection / Parental Controls",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://aura.com"
+  },
+  {
+    "name": "HIX.AI",
+    "description": "3,000 words (GPT-3.5) / Generate high-quality copies / 120+ AI writing tools / Support 50+ languages",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "writers"
+    ],
+    "rating": 4.5,
+    "link": "https://hix.ai"
+  },
+  {
+    "name": "Monica",
+    "description": "40 daily basic model accesses / AI Chat / Copywriting / Smart Reading",
+    "category": "productivity",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://monica.im"
+  },
+  {
+    "name": "Tenorshare AI",
+    "description": "AI Humanizer / AI PDF Summarizer / AI Writer",
+    "category": "productivity",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://ai.tenorshare.com"
+  },
+  {
+    "name": "Sharly AI",
+    "description": "Free access (approx. 200 questions/month) / Chat with documents and PDFs / Summarize content / Cross-source querying",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://www.sharly.ai"
+  },
+  {
+    "name": "SciSpace",
+    "description": "Decode any research paper / Explain confusing text, math, and tables",
+    "category": "productivity",
+    "pricing": "paid",
+    "audience": [
+      "researchers"
+    ],
+    "rating": 4.5,
+    "link": "https://typeset.io"
+  },
+  {
+    "name": "NoteAI",
+    "description": "Free access / AI Summary Assistant for YouTube & PDF / Mind Map & Visual",
+    "category": "productivity",
+    "pricing": "free",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://www.noteai.io"
+  },
+  {
+    "name": "GenForge",
+    "description": "5 Messages per Month / Summarize documents / Ask detailed questions / AI chat support and image generation",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://www.genforge.ai"
+  },
+  {
+    "name": "AI Summary Generator",
+    "description": "800 words free / Summarize Text in One Click / Extract Important Information / Customize Summary Length & Style / No Sign-Up required",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://summarygenerator.io"
+  },
+  {
+    "name": "ReadPartner",
+    "description": "5 summaries per week / Summarize Websites, Documents, Videos & Text / Create Custom AI News Digests",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://readpartner.com"
+  },
+  {
+    "name": "AI Power",
+    "description": "Free / Content, image & form generation / Smart Chatbots",
+    "category": "productivity",
+    "pricing": "free",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://aipower.org"
+  },
+  {
+    "name": "Nuraform",
+    "description": "5 Forms free / AI-assisted form creation / AI-powered analytics",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://www.nuraform.com"
+  },
+  {
+    "name": "CAPTR",
+    "description": "No-code video forms / AI-generated video content",
+    "category": "productivity",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://captr.com"
+  },
+  {
+    "name": "Applyish",
+    "description": "20 Free requests / Complete job application forms 11.3x faster / no need for rewriting CVs or Resumes",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "job seekers"
+    ],
+    "rating": 4.5,
+    "link": "https://applyish.com"
+  },
+  {
+    "name": "Cognicio",
+    "description": "Free trial / Project & asset management / Facility maintenance / Customizable inspection forms",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://www.cognicio.com"
+  },
+  {
+    "name": "Formsible",
+    "description": "500 responses/month free / AI survey builder / Share Everywhere",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://formsible.com"
+  },
+  {
+    "name": "askaiform",
+    "description": "1 free credit / Create feedback survey forms from product descriptions / Summarize responses and provide sentiment analysis",
+    "category": "productivity",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://askaiform.xyz"
+  },
+  {
+    "name": "EasyDaddy",
+    "description": "1-month free trial / AI form filling / Profile-based auto-completion",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://www.easydaddy.pro"
+  },
+  {
+    "name": "Stripo",
+    "description": "Free AI Assistant / AI-powered email creation / Automated content generation / Brand-aligned campaigns",
+    "category": "productivity",
+    "pricing": "free",
+    "audience": [
+      "marketers"
+    ],
+    "rating": 4.5,
+    "link": "https://stripo.email/blog/introducing-stripos-ai-assistant-evolutionizing-editor-for-email-campaigns"
+  },
+  {
+    "name": "Robly Email Marketing",
+    "description": "14 day free trial / Get 50% More Opens / List Growth",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "marketers"
+    ],
+    "rating": 4.5,
+    "link": "https://robly.com"
+  },
+  {
+    "name": "NextDocs",
+    "description": "200 AI credits free / AI Document & Slide Creation / Automated Formatting & Design",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://www.nextdocs.io"
+  },
+  {
+    "name": "Theneo",
+    "description": "Free Starter Package (up to 1 public, 2 private projects) / AI-Powered API Documentation / Automated Changelogs / Interactive API Testing",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://theneo.io"
+  },
+  {
+    "name": "ReadyBase",
+    "description": "2 generations per month / Transform intelligence from raw to ready / Go from prompt to PDF in seconds",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://readybase.ai"
+  },
+  {
+    "name": "SwiftSheets.ai",
+    "description": "Intelligent Spreadsheet Analysis / Dynamic Spreadsheet Manipulation / Advanced Chart and Graph Generation",
+    "category": "productivity",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://www.swiftsheets.ai"
+  },
+  {
+    "name": "Luminal",
+    "description": "Up to 5 assistant interactions free / Clean, transform and analyze spreadsheets / Answer complex questions from your data",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://getluminal.com"
+  },
+  {
+    "name": "Sheet Copilot",
+    "description": "Run Google Sheets on autopilot / Use AI to complete tasks & answer questions",
+    "category": "productivity",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://sheetcopilot.ai"
+  },
+  {
+    "name": "GiveFlag",
+    "description": "10 AI team chat prompts free / Automated Document Analysis / Customer List Generation",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://www.giveflag.com"
+  },
+  {
+    "name": "CodePal",
+    "description": "text-to-code generation / code review / bug detection",
+    "category": "productivity",
+    "pricing": "paid",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://codepal.ai"
+  },
+  {
+    "name": "nele.ai",
+    "description": "1000 credits for 7 days / Secure AI for companies / Centralized prompt management / Company knowledge databases",
+    "category": "productivity",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://nele.ai"
+  },
+  {
+    "name": "Graphite Note",
+    "description": "14-day free trial / No-code machine learning for predictive analytics / GenAI Actionable Insights / No card required",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://graphite-note.com"
+  },
+  {
+    "name": "Raccoon AI",
+    "description": "Free forever tier / Deploy full-stack web apps / Real-time collaborative AI",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://raccoonai.tech"
+  },
+  {
+    "name": "Hyperlink by Nexa AI",
+    "description": "Free / Offline, Private AI Agent / Instant Answers with Citations",
+    "category": "productivity",
+    "pricing": "free",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://hyperlink.nexa.ai"
+  },
+  {
+    "name": "FileGPT",
+    "description": "Free access (approx. 200 questions/month) / Chat with multiple file types / OCR for scanned docs / Cross-source querying",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://filegpt.app"
+  },
+  {
+    "name": "Mito",
+    "description": "50 AI Completions per month / Python Spreadsheet Automation / AI Code Generation / No Sign-Up",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://trymito.io"
+  },
+  {
+    "name": "Papper",
+    "description": "Free / Sync Handwritten & Digital To-Dos / Create Stylish Printouts",
+    "category": "productivity",
+    "pricing": "free",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://papper.co"
+  },
+  {
+    "name": "Candy for Workspace",
+    "description": "One-week free trial / AI assistant / Document hyperlink manager / Email templater",
+    "category": "productivity",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://workspace.google.com/marketplace/app/candy_for_workspace/467236778973"
+  },
+  {
+    "name": "BeReadyAI",
+    "description": "Free / AI-powered daily tasks / Organize daily tasks with notifications",
+    "category": "productivity",
+    "pricing": "free",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://apps.apple.com/us/app/beread/id6446637167"
+  },
+  {
+    "name": "Astrai",
+    "description": "Turn prompts into reusable AI solutions / Auto Prompt Engineering / One Stop, All Models",
+    "category": "productivity",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://astrai.co"
+  },
+  {
+    "name": "Gauth",
+    "description": "AI Homework Helper / Real Live Tutors / Step-by-step Solutions",
+    "category": "education",
+    "pricing": "paid",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://gauthmath.com"
+  },
+  {
+    "name": "Study Fetch",
+    "description": "AI Flashcards / AI Quizzes / AI Tutor",
+    "category": "education",
+    "pricing": "paid",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://studyfetch.com"
+  },
+  {
+    "name": "Astra AI",
+    "description": "Step-by-step guidance / Photo scan for math problems / Covers 4 subjects",
+    "category": "education",
+    "pricing": "paid",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://astra-ai.co"
+  },
+  {
+    "name": "ReadTheory",
+    "description": "Free Basic plan / Adaptive reading comprehension / Personalized learning / Automatic grading",
+    "category": "education",
+    "pricing": "freemium",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://readtheory.org"
+  },
+  {
+    "name": "Thetawise",
+    "description": "50 free messages per day / AI Math Tutor & Step-by-Step solutions / Advanced solver & Practice sessions",
+    "category": "education",
+    "pricing": "freemium",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://thetawise.ai"
+  },
+  {
+    "name": "Mathos AI",
+    "description": "AI Math Solver / Step-by-step math solver / AI Tutor",
+    "category": "education",
+    "pricing": "paid",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://www.mathgptpro.com"
+  },
+  {
+    "name": "Studyable",
+    "description": "Free / Instant step-by-step homework help / AI tutors for math & images / Instant essay feedback",
+    "category": "education",
+    "pricing": "free",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://studyable.app"
+  },
+  {
+    "name": "Tutor AI",
+    "description": "Free plan available / Create a custom learning pathway / Unlimited chat interactions",
+    "category": "education",
+    "pricing": "freemium",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://www.tutorai.me"
+  },
+  {
+    "name": "Question AI",
+    "description": "AI Homework Helper / Summarizer / Paraphraser",
+    "category": "education",
+    "pricing": "paid",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://questionai.io"
+  },
+  {
+    "name": "AHelp",
+    "description": "Free 3 credits / day / Check plagiarism / Improve grammar / Generate ideas",
+    "category": "education",
+    "pricing": "freemium",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://ahelp.com"
+  },
+  {
+    "name": "Inkey AI",
+    "description": "1000 words/month free / AI Tutor / Essay Writer / Math Word Problem Solver",
+    "category": "education",
+    "pricing": "freemium",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://www.inkey.ai"
+  },
+  {
+    "name": "GradeCalculator.AI",
+    "description": "Free / Calculate Grade Percentage & Average / Determine Required Final Grade / Supports Multiple Grading Systems",
+    "category": "education",
+    "pricing": "free",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://gradecalculator.ai"
+  },
+  {
+    "name": "GradesAI",
+    "description": "Free access / Predictive Exam Generator™ / AI-driven Study Tools",
+    "category": "education",
+    "pricing": "free",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://gradesai.com"
+  },
+  {
+    "name": "Examly",
+    "description": "Free mock exams, first essay review & vocabulary builder / Mock & Practice Exams / AI Essay Reviewer / Vocabulary Building App",
+    "category": "education",
+    "pricing": "freemium",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://examly.ai"
+  },
+  {
+    "name": "Instantly answer any question",
+    "description": "From $49/month (500 interactions/mo)",
+    "category": "education",
+    "pricing": "paid",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://crisp.chat"
+  },
+  {
+    "name": "Crisp",
+    "description": "Free plan with 2 seats / Omnichannel Team Inbox / AI Chatbot",
+    "category": "education",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://crisp.chat"
+  },
+  {
+    "name": "Helpjuice",
+    "description": "Free 14 Day Trial / AI-Powered Knowledge Base / Self-Service Portal / No Credit Card Required",
+    "category": "education",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://helpjuice.com"
+  },
+  {
+    "name": "GitBook",
+    "description": "Free plan (one user) / AI-powered search and insights / Effortlessly create, surface and improve documentation / Collaborate and build in a git-based workflow",
+    "category": "education",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://gitbook.com"
+  },
+  {
+    "name": "Gleap",
+    "description": "14-day free trial / AI-powered customer support / visual bug reporting / public roadmaps",
+    "category": "education",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://gleap.io"
+  },
+  {
+    "name": "The AI Exchange",
+    "description": "Free weekly newsletter / Expert-led courses / Private AI community / Professional AI matchmaking",
+    "category": "education",
+    "pricing": "free",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://theaiexchange.com"
+  },
+  {
+    "name": "Elephas",
+    "description": "AI-Powered Knowledge Assistant / Personal ChatGPT from your own data / Works across applications",
+    "category": "education",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://elephas.app"
+  },
+  {
+    "name": "Cody AI",
+    "description": "100 credits & 100 documents free / Train AI on your business / Instant answers to business questions",
+    "category": "education",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://www.meetcody.ai"
+  },
+  {
+    "name": "AI Math",
+    "description": "Swiftly solves various math problems / Presents clear solution steps / Covers wide range of math subjects / No Login required",
+    "category": "education",
+    "pricing": "free",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://ai-math.top"
+  },
+  {
+    "name": "Math99th",
+    "description": "Free instant access to thousands of test-like questions / AI-enhanced learning experience / 100,000+ Personalized Test-Like Questions",
+    "category": "education",
+    "pricing": "free",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://math99th.ai"
+  },
+  {
+    "name": "Math-X",
+    "description": "Solve problems with a photo / Step-by-step guidance",
+    "category": "education",
+    "pricing": "paid",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://www.xmath.ai"
+  },
+  {
+    "name": "Ithy",
+    "description": "10+ free articles / Combine the world's best AIs / Article-quality responses",
+    "category": "education",
+    "pricing": "freemium",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://ithy.com"
+  },
+  {
+    "name": "TradesViz",
+    "description": "3000 executions/month free / Trading Journal / Trading Simulation / Advanced Analytics",
+    "category": "education",
+    "pricing": "freemium",
+    "audience": [
+      "traders"
+    ],
+    "rating": 4.5,
+    "link": "https://www.tradesviz.com"
+  },
+  {
+    "name": "Andi",
+    "description": "AI Search for the Next Generation / Instant, Accurate Answers / Private and Ad-Free",
+    "category": "education",
+    "pricing": "paid",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://andisearch.com"
+  },
+  {
+    "name": "EduBrain.ai",
+    "description": "AI Homework Helper / Picture Solver / Step-by-step solutions / No Signup",
+    "category": "education",
+    "pricing": "free",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://edubrain.ai"
+  },
+  {
+    "name": "Internet.io",
+    "description": "Compare answers from multiple AI models / Create & share custom agents",
+    "category": "education",
+    "pricing": "paid",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://internet.io"
+  },
+  {
+    "name": "Ask AI Questions Online",
+    "description": "Free / Accurate & Instant Answers / Precise Insights / Total Data Protection / No Sign-Up required",
+    "category": "education",
+    "pricing": "free",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://askaiquestions.net"
+  },
+  {
+    "name": "Yes/No Tarot",
+    "description": "Free / Instant Accurate Answers / AI-powered Yes/No Tarot Readings / No Sign-Up",
+    "category": "education",
+    "pricing": "free",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://yesornotarot.net/yes-no-tarot-ai"
+  },
+  {
+    "name": "Solvr",
+    "description": "Unlimited free / Highlight text to get answers / Screenshot to get answers",
+    "category": "education",
+    "pricing": "free",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://solvr.me"
+  },
+  {
+    "name": "LeResume.net",
+    "description": "Free / AI-powered summary generation / Search existing summaries",
+    "category": "education",
+    "pricing": "free",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://leresume.net"
+  },
+  {
+    "name": "VDraw AI",
+    "description": "Limited AI credits / AI Infographic Generator / AI Chart Generator",
+    "category": "education",
+    "pricing": "paid",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://vdraw.ai"
+  },
+  {
+    "name": "Readever",
+    "description": "AI Reading Assistant / Chat with books / AI-powered highlights",
+    "category": "education",
+    "pricing": "paid",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://www.readever.app"
+  },
+  {
+    "name": "Summarizer AI",
+    "description": "Summarize lengthy documents / AI-powered summarization / Maintains main idea",
+    "category": "education",
+    "pricing": "paid",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://summarizer-ai.live"
+  },
+  {
+    "name": "Pluto.AI",
+    "description": "Ultimate AI teacher / Learn anything from history, politics, science, and literature / Get scientific answers to all your queries",
+    "category": "education",
+    "pricing": "paid",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://apps.apple.com/us/app/pluto-ai/id6504052685"
+  },
+  {
+    "name": "Bookshelf: Reading Tracker",
+    "description": "20 free notes, 3 reading sessions/week / Track library & TBR / Build reading habits / Remember what you read",
+    "category": "education",
+    "pricing": "freemium",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://apps.apple.com/us/app/bookshelf-reading-tracker/id1469372414"
+  },
+  {
+    "name": "LearnSmarter.ai",
+    "description": "3-day free trial / AI book insights / Personalized guidance / Accelerate self-growth",
+    "category": "education",
+    "pricing": "freemium",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://learnsmarter.ai"
+  },
+  {
+    "name": "Yomitai",
+    "description": "Read Japanese text in images / Instant point-and-click dictionary / Color-coded notes for quick lookup / No Sign-Up required for demo",
+    "category": "education",
+    "pricing": "free",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://yomitai.app"
+  },
+  {
+    "name": "Health Insurance AI",
+    "description": "Decipher complex language / Read fine print",
+    "category": "education",
+    "pricing": "paid",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://insuranceai.gtmtemplates24.com"
+  },
+  {
+    "name": "EchoStream",
+    "description": "Automated AI agent for reading & summarizing internet content / Supports third-party links & YouTube videos / Manages proprietary memories",
+    "category": "education",
+    "pricing": "paid",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://apps.apple.com/us/app/echostream/id6476086097"
+  },
+  {
+    "name": "Khanmigo",
+    "description": "Free for teachers / AI-powered teaching assistant & tutor / personalized tutoring & homework help",
+    "category": "education",
+    "pricing": "free",
+    "audience": [
+      "educators"
+    ],
+    "rating": 4.5,
+    "link": "https://khanmigo.ai"
+  },
+  {
+    "name": "Redmenta",
+    "description": "Create interactive worksheets / Assess student assignments / Adjust activities",
+    "category": "education",
+    "pricing": "paid",
+    "audience": [
+      "educators"
+    ],
+    "rating": 4.5,
+    "link": "https://redmenta.com"
+  },
+  {
+    "name": "Twistly",
+    "description": "Create presentations in PowerPoint / Convert content to slides / Enhance slides with AI",
+    "category": "education",
+    "pricing": "paid",
+    "audience": [
+      "educators"
+    ],
+    "rating": 4.5,
+    "link": "https://twistly.ai"
+  },
+  {
+    "name": "QuizRise",
+    "description": "Free 3 quizzes per month / AI-Powered Quiz Generation / Flashcard Creation / Multiple question types",
+    "category": "education",
+    "pricing": "freemium",
+    "audience": [
+      "educators"
+    ],
+    "rating": 4.5,
+    "link": "https://www.quizrise.com"
+  },
+  {
+    "name": "Ausum",
+    "description": "Audio Summaries / Instant Smart Summaries / Ad-Free Experience / No Sign-Up Required",
+    "category": "education",
+    "pricing": "paid",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://chromewebstore.google.com/detail/ausum/ehdnmcmfpbefncmgehgjflfijdogcobj"
+  },
+  {
+    "name": "Genei",
+    "description": "AI summarisation / Semantic / Question based search / Document editing",
+    "category": "education",
+    "pricing": "paid",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://chromewebstore.google.com/detail/genei-browse-fast/nfjjljpdljpaiecclcjijdmpkbomifbn"
+  },
+  {
+    "name": "GradesAI",
+    "description": "Free access / Predictive Exam Generator™ / AI-driven Study Tools",
+    "category": "education",
+    "pricing": "free",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://gradesai.com"
+  },
+  {
+    "name": "Keywrds.ai",
+    "description": "1500 credits free / AI-powered keyword research / Content ideation / PAA answer generation",
+    "category": "education",
+    "pricing": "freemium",
+    "audience": [
+      "marketers"
+    ],
+    "rating": 4.5,
+    "link": "https://keywrds.ai"
+  },
+  {
+    "name": "Hiring Studio by Metaview",
+    "description": "Generate interview questions / Listen to sample answers / Generate job descriptions",
+    "category": "education",
+    "pricing": "paid",
+    "audience": [
+      "hr"
+    ],
+    "rating": 4.5,
+    "link": "https://hiring.studio"
+  },
+  {
+    "name": "Explain Like I'm Five (ELI5)",
+    "description": "30 Tokens per week / Simplify complex topics / Adjust explanation complexity",
+    "category": "education",
+    "pricing": "freemium",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://explainlikeimfive.io"
+  },
+  {
+    "name": "AISheets.study",
+    "description": "3 free worksheets / Transforms textbooks into interactive worksheets / Generates engaging, printable AI worksheets",
+    "category": "education",
+    "pricing": "freemium",
+    "audience": [
+      "educators"
+    ],
+    "rating": 4.5,
+    "link": "https://aisheets.study"
+  },
+  {
+    "name": "Survia",
+    "description": "7 day trial / AI survey builder / Share Everywhere",
+    "category": "education",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://survia.io"
+  },
+  {
+    "name": "Unearthed",
+    "description": "Free / Auto sync unlimited Kindle highlights and notes / AI analysis for deeper insights",
+    "category": "education",
+    "pricing": "freemium",
+    "audience": [
+      "students"
+    ],
+    "rating": 4.5,
+    "link": "https://unearthed.app"
+  },
+  {
+    "name": "Chisquares",
+    "description": "Free 1 Simple Survey / Instantly Generated Representative Samples / Advanced Sample Size Calculations",
+    "category": "education",
+    "pricing": "freemium",
+    "audience": [
+      "researchers"
+    ],
+    "rating": 4.5,
+    "link": "https://www.chisquares.com"
+  },
+  {
+    "name": "PureCode AI",
+    "description": "50 chat messages per month / Generate UI Using AI / Human-Like Codebase Understanding",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://purecode.ai"
+  },
+  {
+    "name": "BlackBox AI",
+    "description": "5-day free trial / Turn any question into code / Extract code from any video",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://www.useblackbox.io"
+  },
+  {
+    "name": "Supernova.io",
+    "description": "Free forever / AI-powered collaborative prototyping / Design system management",
+    "category": "coding",
+    "pricing": "free",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://www.supernova.io"
+  },
+  {
+    "name": "Stately",
+    "description": "Unlimited public projects free, 3 AI generations/month / Visually build and",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://stately.ai"
+  },
+  {
+    "name": "OpenRouter",
+    "description": "Unified interface for LLMs / Better prices, better uptime",
+    "category": "coding",
+    "pricing": "paid",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://openrouter.ai"
+  },
+  {
+    "name": "Groq",
+    "description": "Fast AI Inference / Exceptional compute speed / Supports openly-available AI models",
+    "category": "coding",
+    "pricing": "paid",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://groq.com"
+  },
+  {
+    "name": "OpenAI",
+    "description": "Limited free access / Access to GPT-4o / Real-time data & search / Image generation & voice mode",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://openai.com"
+  },
+  {
+    "name": "Nano Banana Pro API - Kie.ai",
+    "description": "Free initial credits / Cost-effective AI image generation / High-fidelity 4K output",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://kie.ai/nano-banana-pro"
+  },
+  {
+    "name": "Kie AI",
+    "description": "Text, Music, and Video Generation APIs / Stable and Scalable Performance / Real-Time Streaming Output",
+    "category": "coding",
+    "pricing": "paid",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://kie.ai"
+  },
+  {
+    "name": "ImageKit.io",
+    "description": "Image and Video API / AI-powered Digital Asset Management / Automatic performance optimization",
+    "category": "coding",
+    "pricing": "paid",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://imagekit.io"
+  },
+  {
+    "name": "DeepSeek",
+    "description": "World-leading AI Foundational Models / Open-source LLM & Coder Models / AI Chat & API Access",
+    "category": "coding",
+    "pricing": "free",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://www.deepseek.com"
+  },
+  {
+    "name": "Google AI Studio",
+    "description": "Completely free in Google AI Studio / Multimodal generative AI models / 2M",
+    "category": "coding",
+    "pricing": "free",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://aistudio.google.com"
+  },
+  {
+    "name": "Kie.ai",
+    "description": "Free trial / High-quality 4o image generation / Image-to-image & text-to-image generation / Accurate text rendering & flexible style control",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://kie.ai/4o-image-api"
+  },
+  {
+    "name": "Pinecone",
+    "description": "Free up to 2GB storage / Vector database for knowledgeable AI / Performance at scale",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://www.pinecone.io"
+  },
+  {
+    "name": "Composio",
+    "description": "10k API Calls/month free / Connect over 250 apps effortlessly / Managed Auth / No Sign-Up",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://composio.dev/mcp"
+  },
+  {
+    "name": "Supermeme.ai",
+    "description": "10 free AI memes / AI Meme Generator / Multilingual support",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://supermeme.ai"
+  },
+  {
+    "name": "Browser Use",
+    "description": "Unlimited API access / Make websites accessible for AI agents / Automate browser interactions",
+    "category": "coding",
+    "pricing": "free",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://browser-use.com"
+  },
+  {
+    "name": "Mubert",
+    "description": "AI Music Generator / Royalty-Free Music / AI soundtracks for content",
+    "category": "coding",
+    "pricing": "paid",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://mubert.com"
+  },
+  {
+    "name": "Portkey",
+    "description": "Free trial / Observability Suite / AI Gateway / Prompt Engineering",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://portkey.ai"
+  },
+  {
+    "name": "White-labeled Digital Twin Experiences",
+    "description": "Real-time Conversational AI",
+    "category": "coding",
+    "pricing": "paid",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://www.deepbrain.io"
+  },
+  {
+    "name": "Picarta",
+    "description": "Free 3 Searches / day / Photo Location Search using AI / Image Geolocalization using AI",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://picarta.ai"
+  },
+  {
+    "name": "CapSolver",
+    "description": "Free trial / AI-powered automatic captcha solving / Solves reCAPTCHA, Cloudflare, and other types / Fastest captcha solving service",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://capsolver.com"
+  },
+  {
+    "name": "Mirai Translate",
+    "description": "High-accuracy AI translation / High-security cloud translation / Domain-specific models",
+    "category": "coding",
+    "pricing": "paid",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://miraitranslate.com"
+  },
+  {
+    "name": "Nimbalyst",
+    "description": "Free for individuals / Visual workspace for AI agents / Session manager with Kanban / Review AI changes",
+    "category": "coding",
+    "pricing": "free",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://nimbalyst.com"
+  },
+  {
+    "name": "Sweep AI",
+    "description": "75 Chat and Agent free / Automate software chores / Next-Edit Autocomplete",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://sweep.dev"
+  },
+  {
+    "name": "Interview Solver",
+    "description": "Solves all Leetcode style problems / Invisible to screensharing / Transcribe from audio",
+    "category": "coding",
+    "pricing": "paid",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://interviewsolver.com"
+  },
+  {
+    "name": "Codewiki",
+    "description": "Free / AI code documentation research / Entity clarification / No Login required",
+    "category": "coding",
+    "pricing": "free",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://codewiki.ai"
+  },
+  {
+    "name": "Speak AI",
+    "description": "7-day trial with 30 minutes free transcription & AI analysis / Transcribe, translate, analyze / AI Meeting Assistant",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4.5,
+    "link": "https://speakai.co"
+  },
+  {
+    "name": "ScrapeGraphAI",
+    "description": "50 credits included / Transform Websites into Structured Data / Turn unstructured web content into clean, organized JSON",
+    "category": "coding",
+    "pricing": "paid",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://scrapegraphai.com"
+  },
+  {
+    "name": "Swiftproxy",
+    "description": "500MB free traffic / 80M+ Residential IPs / 99.89% Uptime",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://www.swiftproxy.net"
+  },
+  {
+    "name": "Tabbit Browser",
+    "description": "Free Top AI Models / Context-Aware Chat / AI Agent Background Automation",
+    "category": "coding",
+    "pricing": "free",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://www.tabbitbrowser.com"
+  },
+  {
+    "name": "Wiseone",
+    "description": "Free 10 queries per day / Sourced answers to complex questions / Information summarization / Fact checking",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://wiseone.io"
+  },
+  {
+    "name": "Broearn Browser",
+    "description": "Web3 AI browser / Earn cryptocurrency daily / Built-in multi-chain Wallet & Free VPN",
+    "category": "coding",
+    "pricing": "free",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://www.broearn.com"
+  },
+  {
+    "name": "Chippy",
+    "description": "Twenty free GPT-3.5 queries daily / Summarize, research, translate and answer",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://chippyai.com"
+  },
+  {
+    "name": "Prog.AI",
+    "description": "14-day free trial / Unlimited search over 60M candidate profiles / AI-powered search",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "hr"
+    ],
+    "rating": 4.5,
+    "link": "https://prog.ai"
+  },
+  {
+    "name": "ChatViz",
+    "description": "SQL translator / Chart suggestion",
+    "category": "coding",
+    "pricing": "paid",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://chatviz.io"
+  },
+  {
+    "name": "Text/Code Util.AI",
+    "description": "AI-powered text and code utilities / Generate study notes / Text to SQL Query Ideas",
+    "category": "coding",
+    "pricing": "paid",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://www.ai-utilities.in"
+  },
+  {
+    "name": "OpenOs",
+    "description": "Two-month free trial / No-code predictive analysis / Natural language to SQL interface / Predict user churn, ROAS, LTV & retention",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://openos.tools"
+  },
+  {
+    "name": "Refraction",
+    "description": "10 code generations free / Generate unit tests / Refactor code / Create inline documentation",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://www.refraction.dev"
+  },
+  {
+    "name": "RepoClip",
+    "description": "1 Image + 1 Video Short free per month / AI-powered code analysis / Cinematic video clips",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://repoclip.io"
+  },
+  {
+    "name": "Gitcord",
+    "description": "Track & analyze GitHub repos / Advanced analytics / Team & organization insights",
+    "category": "coding",
+    "pricing": "paid",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://gitcord.pro"
+  },
+  {
+    "name": "DemoGenie",
+    "description": "Automated Video Creation / AI-Powered Descriptions / GitHub Integration",
+    "category": "coding",
+    "pricing": "paid",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://demogenie.dev"
+  },
+  {
+    "name": "Prismy",
+    "description": "Free up to 10,000 hosted words, 14-day trial / High quality AI translations / GitHub & GitLab native",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://prismy.io"
+  },
+  {
+    "name": "SamaritanAI",
+    "description": "Free / visualizing large complex codebases / AI assisted Open Source Contributions",
+    "category": "coding",
+    "pricing": "free",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://www.samaritanai.xyz"
+  },
+  {
+    "name": "HOJI AI",
+    "description": "Unlimited reviews on public repositories / Automates code reviews with AI precision / Ensures code privacy",
+    "category": "coding",
+    "pricing": "paid",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://hoji.ai"
+  },
+  {
+    "name": "RepoNotes",
+    "description": "5-day free trial / Summarizes code changes / Sends Slack posts / Supports private repos",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://reponotes.com"
+  },
+  {
+    "name": "DeepWiki",
+    "description": "AI documentation you can talk to / Understands codebase structure",
+    "category": "coding",
+    "pricing": "paid",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://deepwiki.com"
+  },
+  {
+    "name": "Unsloth AI",
+    "description": "Free / Open source fine-tuning & RL for LLMs / 30x faster training / 90% less memory usage",
+    "category": "coding",
+    "pricing": "free",
+    "audience": [
+      "developers"
+    ],
+    "rating": 4.5,
+    "link": "https://unsloth.ai"
+  },
+  {
+    "name": "Pl@ntNet",
+    "description": "Free / Identify plants from photos / Join citizen science projects",
+    "category": "coding",
+    "pricing": "free",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://plantnet.org"
+  },
+  {
+    "name": "Glarity",
+    "description": "40,000 tokens/day / YouTube Video Summary / Google Search Summary / PDF Summary / No registration required",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://glarity.app"
+  },
+  {
+    "name": "RoxyBrowser",
+    "description": "Permanent Free Plan (5 profiles) & 7-day Free Trial / Secure Unique Browser",
+    "category": "coding",
+    "pricing": "freemium",
+    "audience": [
+      "individuals"
+    ],
+    "rating": 4.5,
+    "link": "https://roxybrowser.com"
+  },
+  {
+    "name": "DeerFlow",
+    "description": "A tool to manage workflows and tasks across business tools.",
+    "category": "work",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 1,
+    "link": "https://futuretools.link/deerflow-b3as4p"
+  },
+  {
+    "name": "Zealos",
+    "description": "A tool to manage workflows and tasks across business tools.",
+    "category": "work",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 1,
+    "link": "https://futuretools.link/zealos-nza7gz"
+  },
+  {
+    "name": "Cliphi",
+    "description": "A tool to convert long videos into short clips.",
+    "category": "work",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 1,
+    "link": "https://futuretools.link/cliphi-w0gfbv"
+  },
+  {
+    "name": "Synta",
+    "description": "A tool to manage workflows and tasks across business tools.",
+    "category": "work",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 1,
+    "link": "https://futuretools.link/synta-m38cxj"
+  },
+  {
+    "name": "Alma",
+    "description": "A tool to store and use memory for AI agents.",
+    "category": "work",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 1,
+    "link": "https://futuretools.link/alma-gt2103"
+  },
+  {
+    "name": "TubeAnalytics",
+    "description": "A tool to analyze YouTube data and generate video ideas.",
+    "category": "work",
+    "pricing": "paid",
+    "audience": [
+      "content creators"
+    ],
+    "rating": 1,
+    "link": "https://futuretools.link/tubeanalytics-hp9c8j"
+  },
+  {
+    "name": "AppDeploy",
+    "description": "A tool to manage workflows and tasks across business tools.",
+    "category": "work",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 1,
+    "link": "https://futuretools.link/appdeploy-l5a1km"
+  },
+  {
+    "name": "Lasso",
+    "description": "A tool to create product listings from supplier spreadsheets.",
+    "category": "work",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 1,
+    "link": "https://futuretools.link/lasso-pd5yx0"
+  },
+  {
+    "name": "Glyde",
+    "description": "A tool to record workflows and create step-by-step guides.",
+    "category": "work",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 1,
+    "link": "https://futuretools.link/glyde-iwc9k6"
+  },
+  {
+    "name": "Chartcastr",
+    "description": "A tool to send charts and summaries from connected data sources.",
+    "category": "work",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 3,
+    "link": "https://futuretools.link/chartcastr-bhozka"
+  },
+  {
+    "name": "Git AutoReview",
+    "description": "A tool to review code and generate pull request feedback.",
+    "category": "work",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 2,
+    "link": "https://futuretools.link/git-autoreview-n9yxru"
+  },
+  {
+    "name": "GoldMine AI",
+    "description": "A tool to validate ideas and generate market research insights.",
+    "category": "work",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 1,
+    "link": "https://futuretools.link/goldmine-ai-a7b534"
+  },
+  {
+    "name": "Agentative",
+    "description": "A tool to manage workflows and tasks across business tools.",
+    "category": "work",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 1,
+    "link": "https://futuretools.link/agentative-nzkahd"
+  },
+  {
+    "name": "SuperPrompt",
+    "description": "A chrome extenstion to manage and reuse prompts across chatbots.",
+    "category": "work",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 1,
+    "link": "https://futuretools.link/superprompt-p24tfm"
+  },
+  {
+    "name": "Storydoc",
+    "description": "A tool to create interactive business documents and presentations.",
+    "category": "work",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 1,
+    "link": "https://futuretools.link/storydoc-i5x0uu"
+  },
+  {
+    "name": "Renamer.ai",
+    "description": "A tool to rename files automatically based on content.",
+    "category": "work",
+    "pricing": "freemium",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 4,
+    "link": "https://futuretools.link/renamer-ai-a6es7g"
+  },
+  {
+    "name": "RepoClip",
+    "description": "A tool to create demo videos from GitHub repositories.",
+    "category": "work",
+    "pricing": "freemium",
+    "audience": [
+      "developers"
+    ],
+    "rating": 1,
+    "link": "https://futuretools.link/repoclip-6fuvdu"
+  },
+  {
+    "name": "Fixy",
+    "description": "A tool to compare and combine outputs from multiple AI models.",
+    "category": "work",
+    "pricing": "paid",
+    "audience": [
+      "professionals"
+    ],
+    "rating": 2,
+    "link": "https://futuretools.link/fixy-t466l6"
+  }
+,{
+  "name": "ChatGPT",
+  "description": "AI chatbot for writing & coding",
+  "category": "writing",
+  "pricing": "freemium",
+  "audience": ["students", "professionals", "creators"],
+  "rating": 4.8,
+  "link": "https://chat.openai.com", "trending": true
+},
+{
+  "name": "Gemini",
+  "description": "Google's AI model for conversation and generation",
+  "category": "writing",
+  "pricing": "free",
+  "audience": ["individuals", "professionals"],
+  "rating": 4.7,
+  "link": "https://gemini.google.com", "trending": true
+},
+{
+  "name": "Cursor",
+  "description": "AI-powered code editor",
+  "category": "coding",
+  "pricing": "freemium",
+  "audience": ["developers"],
+  "rating": 4.6,
+  "link": "https://cursor.sh"
+},
+{
+  "name": "Claude",
+  "description": "AI assistant by Anthropic",
+  "category": "writing",
+  "pricing": "freemium",
+  "audience": ["professionals", "creators"],
+  "rating": 4.8,
+  "link": "https://claude.ai", "trending": true
+},
+{
+  "name": "Midjourney",
+  "description": "AI image generator",
+  "category": "design",
+  "pricing": "paid",
+  "audience": ["designers", "creators"],
+  "rating": 4.7,
+  "link": "https://midjourney.com", "trending": true
+},
+{
+  "name": "DALL-E",
+  "description": "AI image generation by OpenAI",
+  "category": "design",
+  "pricing": "paid",
+  "audience": ["creators", "designers"],
+  "rating": 4.6,
+  "link": "https://openai.com/dall-e-3", "trending": true
+},
+{
+  "name": "GitHub Copilot",
+  "description": "AI coding assistant",
+  "category": "coding",
+  "pricing": "paid",
+  "audience": ["developers"],
+  "rating": 4.5,
+  "link": "https://github.com/features/copilot"
+}
+,{
+  "name": "Perplexity",
+  "description": "AI-powered search engine",
+  "category": "productivity",
+  "pricing": "freemium",
+  "audience": ["professionals", "students"],
+  "rating": 4.7,
+  "link": "https://perplexity.ai", "trending": true
+},
+{
+  "name": "Jasper",
+  "description": "AI writing assistant",
+  "category": "writing",
+  "pricing": "paid",
+  "audience": ["marketers", "writers"],
+  "rating": 4.6,
+  "link": "https://jasper.ai", "trending": true
+},
+{
+  "name": "Copy.ai",
+  "description": "AI copywriting tool",
+  "category": "writing",
+  "pricing": "freemium",
+  "audience": ["marketers", "creators"],
+  "rating": 4.5,
+  "link": "https://copy.ai", "trending": true
+},
+{
+  "name": "Canva Magic Studio",
+  "description": "AI design tools in Canva",
+  "category": "design",
+  "pricing": "freemium",
+  "audience": ["designers", "creators"],
+  "rating": 4.8,
+  "link": "https://canva.com/magic-studio", "trending": true
+},
+{
+  "name": "Synthesia",
+  "description": "AI video creation",
+  "category": "video",
+  "pricing": "paid",
+  "audience": ["creators", "marketers"],
+  "rating": 4.7,
+  "link": "https://synthesia.io", "trending": true
+},
+{
+  "name": "Runway ML",
+  "description": "AI video editing",
+  "category": "video",
+  "pricing": "freemium",
+  "audience": ["creators"],
+  "rating": 4.5,
+  "link": "https://runwayml.com", "trending": true
+},
+{
+  "name": "Adobe Firefly",
+  "description": "AI image generation",
+  "category": "design",
+  "pricing": "freemium",
+  "audience": ["designers"],
+  "rating": 4.6,
+  "link": "https://firefly.adobe.com", "trending": true
+},
+{
+  "name": "Stability AI",
+  "description": "Open-source AI models",
+  "category": "coding",
+  "pricing": "free",
+  "audience": ["developers"],
+  "rating": 4.4,
+  "link": "https://stability.ai", "trending": true
+}
+,{
+  "name": "Grok",
+  "description": "AI assistant by xAI",
+  "category": "writing",
+  "pricing": "free",
+  "audience": ["individuals", "professionals"],
+  "rating": 4.6,
+  "link": "https://grok.x.ai"
+},
+{
+  "name": "Claude 3",
+  "description": "Advanced AI by Anthropic",
+  "category": "writing",
+  "pricing": "freemium",
+  "audience": ["professionals", "creators"],
+  "rating": 4.9,
+  "link": "https://claude.ai"
+},
+{
+  "name": "GPT-4",
+  "description": "OpenAI's most advanced model",
+  "category": "writing",
+  "pricing": "paid",
+  "audience": ["professionals", "developers"],
+  "rating": 4.8,
+  "link": "https://openai.com/gpt-4"
+},
+{
+  "name": "Midjourney V6",
+  "description": "Latest AI image generation",
+  "category": "design",
+  "pricing": "paid",
+  "audience": ["creators", "designers"],
+  "rating": 4.9,
+  "link": "https://midjourney.com"
+},
+{
+  "name": "Stable Diffusion",
+  "description": "Open-source image generation",
+  "category": "design",
+  "pricing": "free",
+  "audience": ["developers", "creators"],
+  "rating": 4.5,
+  "link": "https://stability.ai"
+},
+{
+  "name": "Hugging Face",
+  "description": "AI model hub and tools",
+  "category": "coding",
+  "pricing": "freemium",
+  "audience": ["developers"],
+  "rating": 4.7,
+  "link": "https://huggingface.co"
+},
+{
+  "name": "Replit",
+  "description": "Online coding with AI",
+  "category": "coding",
+  "pricing": "freemium",
+  "audience": ["students", "developers"],
+  "rating": 4.6,
+  "link": "https://replit.com"
+},
+{
+  "name": "Vercel",
+  "description": "AI-enhanced deployment",
+  "category": "coding",
+  "pricing": "freemium",
+  "audience": ["developers"],
+  "rating": 4.8,
+  "link": "https://vercel.com"
+},
+{
+  "name": "Zapier",
+  "description": "AI automation platform",
+  "category": "productivity",
+  "pricing": "freemium",
+  "audience": ["professionals"],
+  "rating": 4.7,
+  "link": "https://zapier.com"
+},
+{
+  "name": "Make.com",
+  "description": "Visual automation tool",
+  "category": "productivity",
+  "pricing": "freemium",
+  "audience": ["professionals"],
+  "rating": 4.5,
+  "link": "https://make.com"
+},
+{
+  "name": "Notion AI",
+  "description": "AI features in Notion",
+  "category": "productivity",
+  "pricing": "paid",
+  "audience": ["individuals", "professionals"],
+  "rating": 4.6,
+  "link": "https://notion.so/ai"
+}]
+

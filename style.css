@@ -1,0 +1,253 @@
+body {
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #334155 100%);
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  padding: 40px 20px;
+  background: rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+header h1 {
+  font-size: 3em;
+  margin: 0;
+  background: linear-gradient(45deg, #60a5fa, #a78bfa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+input {
+  padding: 12px 20px;
+  width: 350px;
+  border-radius: 25px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+  font-size: 16px;
+  backdrop-filter: blur(10px);
+}
+
+input::placeholder {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.filters {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin: 30px;
+  flex-wrap: wrap;
+}
+
+.filters select {
+  padding: 10px 15px;
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+  font-size: 14px;
+  backdrop-filter: blur(10px);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.card {
+  background: linear-gradient(145deg, #1e293b 0%, #334155 100%);
+  padding: 20px;
+  border-radius: 15px;
+  cursor: pointer;
+  text-align: center;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4);
+}
+
+.tool-logo {
+  width: 60px;
+  height: 60px;
+  border-radius: 12px;
+  margin-bottom: 15px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+}
+
+.pricing-tag {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 11px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 10px;
+}
+
+.pricing-tag.free {
+  background: linear-gradient(45deg, #10b981, #34d399);
+  color: white;
+}
+
+.pricing-tag.freemium {
+  background: linear-gradient(45deg, #f59e0b, #fbbf24);
+  color: white;
+}
+
+.pricing-tag.paid {
+  background: linear-gradient(45deg, #ef4444, #f87171);
+  color: white;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  background: rgba(0,0,0,0.8);
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+}
+
+.modal-content {
+  background: #1e293b;
+  margin: 10% auto;
+  padding: 20px;
+  width: 300px;
+}
+
+.submit-btn {
+  display: block;
+  text-align: center;
+  margin: 40px auto;
+  padding: 15px 30px;
+  background: linear-gradient(45deg, #60a5fa, #a78bfa);
+  color: white;
+  text-decoration: none;
+  border-radius: 25px;
+  font-weight: bold;
+  box-shadow: 0 4px 16px rgba(96, 165, 250, 0.3);
+  transition: transform 0.3s ease;
+}
+
+.submit-btn:hover {
+  transform: translateY(-2px);
+}
+
+.tool-page {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  background: rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  border-radius: 20px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.tool-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.tool-logo-large {
+  width: 120px;
+  height: 120px;
+  border-radius: 20px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+}
+
+.tool-header h2 {
+  font-size: 2.5em;
+  margin: 20px 0 10px;
+  background: linear-gradient(45deg, #60a5fa, #a78bfa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.links {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.visit-btn, .playstore-btn {
+  display: inline-block;
+  padding: 15px 30px;
+  margin: 0 15px;
+  background: linear-gradient(45deg, #60a5fa, #a78bfa);
+  color: white;
+  text-decoration: none;
+  border-radius: 25px;
+  font-weight: bold;
+  box-shadow: 0 4px 16px rgba(96, 165, 250, 0.3);
+  transition: transform 0.3s ease;
+}
+
+.visit-btn:hover, .playstore-btn:hover {
+  transform: translateY(-2px);
+}
+.filters {
+  position: relative;
+  z-index: 10;
+}
+.filters select {
+  padding: 10px 15px;
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+  font-size: 14px;}
+.filters select option {
+  color: #333;
+  background: #fff;
+}
+select {
+  position: relative;
+  z-index: 20;
+}
+.filters {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin: 30px;
+  flex-wrap: wrap;
+}
+.card {
+  position: relative;
+  z-index: 1;
+}
+
+.filters select option {
+  color: #333;
+  background: #fff;
+}
+
+.filters select {
+  padding: 10px 15px;
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+  font-size: 14px;
+}
+
+.filters select option {
+  color: #333;
+  background: #fff;
+}
+
