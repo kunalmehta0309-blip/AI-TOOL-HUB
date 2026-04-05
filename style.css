@@ -1,3 +1,10 @@
+html {
+  box-sizing: border-box;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
 body {
   background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #334155 100%);
   color: white;
@@ -26,7 +33,7 @@ header h1 {
 
 input {
   padding: 12px 20px;
-  width: 350px;
+  width: min(100%, 350px);
   border-radius: 25px;
   border: 1px solid rgba(255, 255, 255, 0.2);
   background: rgba(255, 255, 255, 0.1);
@@ -230,6 +237,42 @@ select {
 .card {
   position: relative;
   z-index: 1;
+}
+
+@media (max-width: 600px) {
+  header {
+    padding: 30px 16px;
+  }
+
+  header h1 {
+    font-size: 2.2em;
+  }
+
+  .filters {
+    margin: 20px 12px;
+    gap: 12px;
+  }
+
+  .grid {
+    padding: 16px;
+  }
+
+  .submit-btn {
+    width: calc(100% - 32px);
+    max-width: 360px;
+    margin: 30px auto;
+  }
+
+  .tool-page {
+    padding: 24px 16px;
+  }
+
+  .visit-btn, .playstore-btn {
+    display: block;
+    margin: 12px auto;
+    width: calc(100% - 32px);
+    max-width: 320px;
+  }
 }
 
 .filters select option {
